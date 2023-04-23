@@ -29,10 +29,6 @@
     "start": "webpack serve",
     "build": "webpack --mode production"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/platzi/curso-webpack-react.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
